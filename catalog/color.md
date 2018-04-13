@@ -1,0 +1,11 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam condimentum tempus diam, ultricies sollicitudin erat facilisis eget. Vestibulum rhoncus dui vel eros laoreet consectetur. Vivamus eget elementum ligula, vitae pharetra quam. Nullam at ligula sed metus accumsan vehicula. Vestibulum aliquam eget purus in tincidunt. Maecenas id gravida ipsum. Morbi nec erat eu odio molestie viverra eu eget erat. In nec nunc mi. Phasellus tincidunt a risus eu commodo. Vestibulum sit amet massa mollis, tempor ante in, accumsan nulla. Donec dignissim enim at enim convallis laoreet.
+
+```color-palette
+colors:
+  - {name: "100", value: "#e3f1fc"}
+  - {name: "200", value: "#c2d8ea"}
+  - {name: "300", value: "#a1c0d8"}
+  - {name: "400", value: "#80a8c6"}
+```
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam condimentum tempus diam, ultricies sollicitudin erat facilisis eget. Vestibulum rhoncus dui vel eros laoreet consectetur. Vivamus eget elementum ligula, vitae pharetra quam. Nullam at ligula sed metus accumsan vehicula. Vestibulum aliquam eget purus in tincidunt. Maecenas id gravida ipsum. Morbi nec erat eu odio molestie viverra eu eget erat. In nec nunc mi. Phasellus tincidunt a risus eu commodo. Vestibulum sit amet massa mollis, tempor ante in, accumsan nulla. Donec dignissim enim at enim convallis laoreet.
